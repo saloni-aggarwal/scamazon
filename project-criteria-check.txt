@@ -1,0 +1,9 @@
+Professor wants:
+*Search filters - Added by name, category and zip which uses geoquery) DONE!
+*View particular product details (Has info , shows google maps and Add comment option) DONE!
+*Once comment is added, the recent comment is updated --DONE!
+*Add quit button to exit seesion - DONE 
+*Images using gridfs are used on home page for each product!
+*Also can return back to search with button (extra) DONE!
+
+The app includes all these criteria for rubrics + bonus map location

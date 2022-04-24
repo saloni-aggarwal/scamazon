@@ -114,7 +114,7 @@ function ShowProductFunctional() {
               
               <div>     
                 {product!==null && 
-                  <iframe frameBorder="0" width="100%" height="100%"  src={`https://www.google.com/maps/embed/v1/place?key=AIzaSyBaIX7tmE-84RJQ6ymnFiLTVTjSUN3Absw&q=${product.latitude},${product.longitude}`}>
+                  <iframe frameBorder="0" width="100%" height="100%"  src={`https://www.google.com/maps/embed/v1/place?key=<Google API Key>&q=${product.latitude},${product.longitude}`}>
                   </iframe>}
               </div>
 
